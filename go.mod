@@ -9,4 +9,5 @@ require (
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
 	github.com/justinas/alice v1.2.0 // indirect
+	golang.org/x/crypto v0.0.0-20221010152910-d6f0a8c073c2 // indirect
 )
